@@ -1,4 +1,4 @@
-# Digit Recognition in Real-Time from Canvas
+# Real-Time Digit Recognition 
 
 This application is for real-time digit recognition using neural networks in Python. It allows you to draw a digit on a canvas using your mouse and see the predictions made by two different models in real-time: one is a neural network trained from scratch using Keras, and the other is a Convolutional Neural Network (CNN) trained using PyTorch. Both was trained using MNIST dataset.
 
