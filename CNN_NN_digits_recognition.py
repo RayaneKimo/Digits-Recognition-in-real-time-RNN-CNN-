@@ -57,7 +57,7 @@ screen.blit(text_surface2, text_surface_rect2)
 
 
 device = 'cpu'
-
+# Model 1 is a neural network used from scratch without any library, you can find it in my repositories
 model1 = keras.models.load_model('my_model')
 
 model2 = torch.nn.Sequential(
